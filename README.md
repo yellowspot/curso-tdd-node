@@ -1,4 +1,13 @@
 # curso-tdd-node
 Proyecto minimo con mocha + chai para poder escribir specs
 
-Ejecutar `npm run test:watch` para levantar mocha en modo watch y correr los specs cada vez que se modifican.
+Mocha esta configurado para correr cualquier archivo `*.spec.js`
+
+## Instalacion
+
+`git clone git@github.com:yellowspot/curso-tdd-node.git`
+`npm i`
+
+## Ejecutar en modo watch (detectar cambios en archivos)
+
+`npm run test:watch`
