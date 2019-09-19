@@ -1,2 +1,3 @@
 --recursive -R dot
+--file test-helper.js
 **/*.spec.js
